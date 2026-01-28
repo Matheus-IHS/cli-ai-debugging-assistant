@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # cli-ai-debugging-assistant
 An OpenAI API proof of concept designed to provide usefull guidance on how to solve error messages without leaving the terminal.
 
@@ -12,14 +11,6 @@ output: up to 200 words of diognostic and solution regarding errors found in the
 
 >> ./program.cpp 2> error.log
 >> python3 app.py error.log
->> Diagnostic:
-   - 
-   -
-   -
-   Solution:
-   -
-   -
-   -
 
 ## Configuration:
 
@@ -27,6 +18,3 @@ output: up to 200 words of diognostic and solution regarding errors found in the
    step2: open ~/.bashrc or equivalent file and add a line with 
 '''echo OPENAI\_API\_KEY "\<insert your openai api key here\>"'''
    step3: use '''echo OPENAI\_API\_KEY "\<insert your openai api key here\>"''' to apply change immediately
-
-
->>>>>>> 6f3f981 (First commit)
