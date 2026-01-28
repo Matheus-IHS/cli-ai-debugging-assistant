@@ -14,7 +14,7 @@ output: up to 200 words of diognostic and solution regarding errors found in the
 
 ## Configuration:
 
-   step1: obtain OpenAI API key using this link https://platform.openai.com/api-keys
+   step1: obtain OpenAI API key using this link https://platform.openai.com/api-keys  
    step2: open ~/.bashrc or equivalent file and add a line with 
-'''echo OPENAI\_API\_KEY "\<insert your openai api key here\>"'''
+'''echo OPENAI\_API\_KEY "\<insert your openai api key here\>"'''  
    step3: use '''echo OPENAI\_API\_KEY "\<insert your openai api key here\>"''' to apply change immediately
