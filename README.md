@@ -9,8 +9,8 @@ output: up to 200 words of diognostic and solution regarding errors found in the
 
 ## Example:
 
->> ./program.cpp 2> error.log
->> python3 app.py error.log
+\> ./program.cpp 2> error.log
+\> python3 app.py error.log
 
 ## Configuration:
 
